@@ -1,6 +1,5 @@
 import React from 'react';
 import portfolio from './components/portfolio';
-import projects from './data/projects.json';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {

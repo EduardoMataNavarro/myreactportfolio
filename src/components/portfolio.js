@@ -11,6 +11,8 @@ export default function portfolio() {
                         Soy un programador recién graduado de Lic. en Multimedia y animación digital.
                 <br />
                 Mi rol principal es el de backend, conoce mis proyectos!
+                <br/>
+                https://github.com/EduardoMataNavarro
               </p>
                 </div>
             </div>
