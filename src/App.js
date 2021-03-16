@@ -1,5 +1,4 @@
 import React from 'react';
-import Sidebar from './Components/Sidebar';
 import projects from './data/projects.json';
 
 function App() {
