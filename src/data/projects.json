@@ -9,7 +9,7 @@
     {
         "name": "Pawtroller mobile",
         "technology": "PHP, Laravel, MySql, Kotlin",
-        "description": "Proyecto móvil creado con Kotlin que consume una API REST en Laravel, se trata de la versión móvil de pawtroller, en él se pueden registrar mascotas y buscar mascotas perdidas, de igual manera, cuenta con un foro en el que se pueden realiar publicaciones y comentarios",
+        "description": "Proyecto móvil creado con Kotlin que consume una API REST en Laravel, se trata de la versión móvil de pawtroller, en él se pueden registrar mascotas y buscar mascotas perdidas, de igual manera, cuenta con un foro en el que se pueden realizar publicaciones y comentarios",
         "image": "https://emn-porfolio-bucket.s3.amazonaws.com/pawtrollermobile.png",
         "link": "/"
     },

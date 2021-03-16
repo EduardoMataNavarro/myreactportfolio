@@ -14,7 +14,7 @@ function App() {
               <p className="header-text mt-4 text-center">
                 Soy un programador recién graduado de Lic. en Multimedia y animación digital.
                 <br />
-                Tengo rol principal es el de backend, conoce mis proyectos!
+                Mi rol principal es el de backend, conoce mis proyectos!
               </p>
             </div>
           </div>
