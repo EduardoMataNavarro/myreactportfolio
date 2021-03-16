@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Pawtroller",
+        "technology": "PHP, Laravel, MySql, HTML, CSS, Javascript, JQuery",
+        "description": "Proyecto creado con Laravel, se trata de un sitio en el que se pueden publicar mascotas perdidas y revisar en un índice, además de tener entradas en un foro con diferentes categorías en el que se pueden crear comentarios y reaccionar",
+        "image": "https://emn-porfolio-bucket.s3.amazonaws.com/pawtroller1.png",
+        "link": "https://pawtroller.herokuapp.com"
+    },
+    {
+        "name": "Pawtroller mobile",
+        "technology": "PHP, Laravel, MySql, Kotlin",
+        "description": "Proyecto móvil creado con Kotlin que consume una API REST en Laravel, se trata de la versión móvil de pawtroller, en él se pueden registrar mascotas y buscar mascotas perdidas, de igual manera, cuenta con un foro en el que se pueden realiar publicaciones y comentarios",
+        "image": "https://emn-porfolio-bucket.s3.amazonaws.com/pawtrollermobile.png",
+        "link": "/"
+    },
+    {
+        "name": "Tiny Sailor",
+        "technology": "PHP, Laravel, THREE.JS, MySql, HTML, CSS, Javascript, JQuery",
+        "description": "Proyecto creado con Laravel, la integración de THREE.js trae a al vida a cualquier sitio, en este caso, TinySailor se trata de un modesto juego en tercera persona en el que se controla un bote con el objetivo de llegar de punto A a punto B esquivando obstaculos",
+        "image": "https://emn-porfolio-bucket.s3.amazonaws.com/tinysailor1.png",
+        "link": "https://tinysailor.herokuapp.com"
+    },
+    {
+        "name": "PHC menudeo",
+        "technology": "PHP, Laravel, React, MySql, HTML, CSS, Javascript",
+        "description": "Proyecto creado en React que consume una API REST en Laravel, es un remake no oficial de pchmayoreo.com en el cual se busca mejorar la experiencia e interfaz de usuario del sitio",
+        "image": "https://emn-porfolio-bucket.s3.amazonaws.com/pchmenudeo1.png",
+        "link": "https://phcmenudeo.herokuapp.com/"
+    },
+    {
+        "name": "My Portfolio",
+        "technology": "React, HTML, CSS Javascript",
+        "description": "Proyecto creado con React, mi propio portafolio creado con React js, consume un archivo json con las descripciones de proyectos para portafolio, sigue en creación, por lo que eventualmente, se cambiará el archivo json por un backend real en node.js y mongodb",
+        "image": "https://emn-porfolio-bucket.s3.amazonaws.com/portfolio.png",
+        "link": "/"
+    }
+]

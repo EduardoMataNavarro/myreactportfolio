@@ -1,0 +1,25 @@
+.App{
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
+#sidebar-container{
+    background-color: white;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.header-text {
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(18, 40, 102);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+hr{
+    background-color: rgba(255, 255, 255, 0.836);
+}
